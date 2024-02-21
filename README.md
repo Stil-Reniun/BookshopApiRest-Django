@@ -11,7 +11,7 @@ BookshopApiRest is a REST API based on Django 5 and its Rest-framework library, 
 
 ## Documentation
 
-The API is documented using Swagger or drf-yasg, facilitating its understanding and use. 
+The API is documented using Swagger, facilitating its understanding and use. 
 Detailed documentation is available for all operations, easing integration with the frontend and subsequent deployment in production.
 
 ## Technologies Used
