@@ -1,4 +1,4 @@
-# BookshopApiRest
+# Bookshop Api Rest
 BookshopApiRest is a REST API based on Django 5 and its Rest-framework library, designed to provide a wide range of functionalities for an online bookstore. From publishing books to making purchases and interacting through comments, the API encompasses all essential features of a modern bookshop. With the use of JWT access tokens for authentication across all operations, comprehensive security for data and transactions is ensured.
 
 
